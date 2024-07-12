@@ -141,3 +141,6 @@ footer {
     width: 100%;
     bottom: 0;
 }
+#sobre{
+scroll-behavior: smooth;
+}
